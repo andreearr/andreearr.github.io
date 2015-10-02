@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Up and running!
 ---
 
-pup11111
+More content to be added soon...
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
